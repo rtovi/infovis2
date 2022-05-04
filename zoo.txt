@@ -1,0 +1,5 @@
+Análisis del paper "A Tour Through the Visualization Zoo"
+https://homes.cs.washington.edu/~jheer/files/zoo/
+
+Palabras resaltadas: 
+brushing-and-linking
