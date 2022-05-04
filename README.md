@@ -1,3 +1,3 @@
-# infovis (en la ECD)
+# infovis-ECD
 
-[hola mundo](https://rtovi.github.io/infovis2/index.html)
+[Saludo Inicial](https://rtovi.github.io/infovis2/index.html)
